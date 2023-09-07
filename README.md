@@ -59,16 +59,3 @@
   </a>
 </div>
 
-###
-
-<p align="left">Hello World!!</p>
-
-###
-
-<br clear="both">
-
-<div align="right">
-  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=gruvbox" alt="Layout with last medium posts"  />
-</div>
-
-###
