@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Learning how to walk slowly to not miss important things :)</p>
+<p align="center">Learning how to walk slowly to not miss important things :)</p>
 
 ###
 
@@ -57,6 +57,18 @@
   <a href="https://linktr.ee/tejas007_" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linktree/default.svg" width="52" height="40" alt="linktree logo"  />
   </a>
+</div>
+
+###
+
+<p align="left">Hello World!!</p>
+
+###
+
+<br clear="both">
+
+<div align="right">
+  <img src="https://github-read-medium-git-main.pahlevikun.vercel.app/latest?limit=4&theme=gruvbox" alt="Layout with last medium posts"  />
 </div>
 
 ###
